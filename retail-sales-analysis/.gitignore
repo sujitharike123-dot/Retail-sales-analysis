@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.DS_Store
+# raw and intermediate data: download the dataset yourself, don't commit it
+data/train.csv
+results/cleaned_sales.csv

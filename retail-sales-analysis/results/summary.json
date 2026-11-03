@@ -1,0 +1,51 @@
+{
+  "rows_loaded": 9800,
+  "rows_after_cleaning": 9799,
+  "exact_duplicates_dropped": 1,
+  "missing_postal_codes_filled": 11,
+  "date_range": [
+    "2015-01-03",
+    "2018-12-30"
+  ],
+  "orders": 4922,
+  "customers": 793,
+  "products": 1861,
+  "total_sales": 2261255.41,
+  "avg_order_value": 459.42,
+  "yearly_sales": {
+    "2015": 479575.0,
+    "2016": 459436.0,
+    "2017": 600193.0,
+    "2018": 722052.0
+  },
+  "yoy_growth_pct": {
+    "2016": -4.2,
+    "2017": 30.6,
+    "2018": 20.3
+  },
+  "top_3_calendar_months_share_pct": {
+    "Nov": 15.5,
+    "Dec": 14.2,
+    "Sep": 13.3
+  },
+  "category_share_pct": {
+    "Technology": 36.6,
+    "Furniture": 32.2,
+    "Office Supplies": 31.2
+  },
+  "top_subcategories": {
+    "Phones": 327782.0,
+    "Chairs": 322541.0,
+    "Storage": 219343.0
+  },
+  "top_product": {
+    "Canon imageCLASS 2200 Advanced Copier": 61600.0
+  },
+  "region_share_pct": {
+    "West": 31.4,
+    "East": 29.6,
+    "Central": 21.8,
+    "South": 17.2
+  },
+  "top_customer_quintile_share_pct": 48.5
+}
